@@ -1,0 +1,460 @@
+0, 0, Header, 1, 9, 480
+1, 0, Start_track
+1, 0, Title_t, "Chopin Prelude No. 7"
+1, 0, Copyright_t, "Copyright © 1997 by Bernd Krueger http://www.piano-midi.de"
+1, 0, Text_t, "Frediric Chopin"
+1, 0, Text_t, "Andantino"
+1, 0, Text_t, "Fertiggestellt am 6.5.97\012"
+1, 0, Text_t, "Korrekturen am 27.8.98\012"
+1, 0, Text_t, "Anpassungen an Digitalpiano am 3.12.98\012"
+1, 0, Text_t, "Update am 9.4.99\012"
+1, 0, Text_t, "Normierung: 23.12.2002\012"
+1, 0, Text_t, "Update am 9.6.2010\012"
+1, 0, Text_t, "Update am 20.2.2014\012"
+1, 0, Text_t, "Dauer: 0:39 Minuten\012"
+1, 0, SMPTE_offset, 96, 0, 3, 0, 0
+1, 0, Time_signature, 3, 2, 24, 8
+1, 0, Key_signature, 3, "major"
+1, 0, Tempo, 591424
+1, 956, Tempo, 644745
+1, 1920, Tempo, 657895
+1, 2400, Tempo, 676590
+1, 2880, Tempo, 704722
+1, 3840, Tempo, 644745
+1, 4800, Tempo, 661230
+1, 5280, Tempo, 710985
+1, 6720, Tempo, 716418
+1, 7200, Tempo, 661230
+1, 8160, Tempo, 704391
+1, 9600, Tempo, 732690
+1, 10080, Tempo, 786267
+1, 10560, Tempo, 743218
+1, 11040, Tempo, 788022
+1, 12480, Tempo, 644745
+1, 13440, Tempo, 651254
+1, 13920, Tempo, 676590
+1, 14400, Tempo, 795967
+1, 15360, Tempo, 644745
+1, 15840, Tempo, 657895
+1, 16320, Tempo, 696945
+1, 16780, Tempo, 914774
+1, 17280, Tempo, 1074499
+1, 18240, Tempo, 664599
+1, 19200, Tempo, 675068
+1, 19680, Tempo, 696945
+1, 20160, Tempo, 758438
+1, 21100, Tempo, 805910
+1, 21600, Tempo, 848416
+1, 22080, Tempo, 1098700
+1, 22200, Tempo, 1032880
+1, 22560, Tempo, 914774
+1, 22560, End_track
+2, 0, Start_track
+2, 0, Title_t, "Piano right"
+2, 0, Program_c, 0, 0
+2, 0, Control_c, 0, 7, 100
+2, 0, Control_c, 0, 10, 64
+2, 0, Control_c, 0, 64, 0
+2, 0, Text_t, "bdca426d104a26ac9dcb070447587523"
+2, 956, Control_c, 0, 91, 127
+2, 960, Note_on_c, 0, 64, 52
+2, 1440, Note_on_c, 0, 64, 0
+2, 1440, Note_on_c, 0, 73, 58
+2, 1800, Note_on_c, 0, 74, 43
+2, 1810, Note_on_c, 0, 73, 0
+2, 1920, Note_on_c, 0, 74, 0
+2, 1920, Note_on_c, 0, 62, 32
+2, 1920, Note_on_c, 0, 68, 32
+2, 1920, Note_on_c, 0, 71, 38
+2, 2400, Note_on_c, 0, 71, 0
+2, 2400, Note_on_c, 0, 68, 0
+2, 2400, Note_on_c, 0, 62, 0
+2, 2400, Note_on_c, 0, 62, 22
+2, 2400, Note_on_c, 0, 68, 22
+2, 2400, Note_on_c, 0, 71, 27
+2, 2880, Note_on_c, 0, 71, 0
+2, 2880, Note_on_c, 0, 68, 0
+2, 2880, Note_on_c, 0, 62, 0
+2, 2880, Note_on_c, 0, 62, 18
+2, 2880, Note_on_c, 0, 68, 18
+2, 2880, Note_on_c, 0, 71, 21
+2, 3820, Note_on_c, 0, 71, 0
+2, 3820, Note_on_c, 0, 68, 0
+2, 3820, Note_on_c, 0, 62, 0
+2, 3840, Note_on_c, 0, 74, 45
+2, 3840, Note_on_c, 0, 78, 45
+2, 4320, Note_on_c, 0, 78, 0
+2, 4320, Note_on_c, 0, 74, 0
+2, 4320, Note_on_c, 0, 72, 44
+2, 4320, Note_on_c, 0, 75, 52
+2, 4680, Note_on_c, 0, 73, 43
+2, 4680, Note_on_c, 0, 76, 51
+2, 4690, Note_on_c, 0, 75, 0
+2, 4690, Note_on_c, 0, 72, 0
+2, 4800, Note_on_c, 0, 73, 0
+2, 4800, Note_on_c, 0, 76, 0
+2, 4800, Note_on_c, 0, 73, 26
+2, 4800, Note_on_c, 0, 81, 44
+2, 5280, Note_on_c, 0, 81, 0
+2, 5280, Note_on_c, 0, 73, 0
+2, 5280, Note_on_c, 0, 81, 31
+2, 5280, Note_on_c, 0, 73, 26
+2, 5760, Note_on_c, 0, 73, 0
+2, 5760, Note_on_c, 0, 81, 0
+2, 5760, Note_on_c, 0, 81, 31
+2, 5760, Note_on_c, 0, 73, 26
+2, 6700, Note_on_c, 0, 73, 0
+2, 6700, Note_on_c, 0, 81, 0
+2, 6720, Note_on_c, 0, 73, 48
+2, 6720, Note_on_c, 0, 64, 40
+2, 7200, Note_on_c, 0, 64, 0
+2, 7200, Note_on_c, 0, 73, 0
+2, 7200, Note_on_c, 0, 61, 40
+2, 7200, Note_on_c, 0, 70, 48
+2, 7560, Note_on_c, 0, 62, 32
+2, 7560, Note_on_c, 0, 71, 38
+2, 7570, Note_on_c, 0, 70, 0
+2, 7570, Note_on_c, 0, 61, 0
+2, 7680, Note_on_c, 0, 71, 0
+2, 7680, Note_on_c, 0, 74, 42
+2, 7680, Note_on_c, 0, 66, 35
+2, 8160, Note_on_c, 0, 66, 0
+2, 8160, Note_on_c, 0, 74, 0
+2, 8160, Note_on_c, 0, 74, 32
+2, 8160, Note_on_c, 0, 66, 27
+2, 8640, Note_on_c, 0, 66, 0
+2, 8640, Note_on_c, 0, 74, 0
+2, 8640, Note_on_c, 0, 74, 27
+2, 8640, Note_on_c, 0, 66, 23
+2, 9580, Note_on_c, 0, 66, 0
+2, 9580, Note_on_c, 0, 74, 0
+2, 9600, Note_on_c, 0, 62, 0
+2, 9600, Note_on_c, 0, 62, 31
+2, 9600, Note_on_c, 0, 68, 37
+2, 10080, Note_on_c, 0, 68, 0
+2, 10080, Note_on_c, 0, 62, 0
+2, 10080, Note_on_c, 0, 62, 33
+2, 10080, Note_on_c, 0, 68, 39
+2, 10440, Note_on_c, 0, 61, 31
+2, 10440, Note_on_c, 0, 69, 37
+2, 10450, Note_on_c, 0, 68, 0
+2, 10450, Note_on_c, 0, 62, 0
+2, 10560, Note_on_c, 0, 61, 0
+2, 10560, Note_on_c, 0, 69, 0
+2, 10560, Note_on_c, 0, 61, 18
+2, 10560, Note_on_c, 0, 73, 33
+2, 11040, Note_on_c, 0, 73, 0
+2, 11040, Note_on_c, 0, 61, 0
+2, 11040, Note_on_c, 0, 73, 22
+2, 11040, Note_on_c, 0, 61, 18
+2, 11520, Note_on_c, 0, 61, 0
+2, 11520, Note_on_c, 0, 73, 0
+2, 11520, Note_on_c, 0, 61, 15
+2, 11520, Note_on_c, 0, 73, 18
+2, 12460, Note_on_c, 0, 73, 0
+2, 12460, Note_on_c, 0, 61, 0
+2, 12480, Note_on_c, 0, 64, 60
+2, 12960, Note_on_c, 0, 73, 57
+2, 12960, Note_on_c, 0, 68, 48
+2, 13320, Note_on_c, 0, 74, 57
+2, 13330, Note_on_c, 0, 73, 0
+2, 13440, Note_on_c, 0, 64, 0
+2, 13440, Note_on_c, 0, 68, 0
+2, 13440, Note_on_c, 0, 74, 0
+2, 13440, Note_on_c, 0, 68, 41
+2, 13440, Note_on_c, 0, 62, 41
+2, 13440, Note_on_c, 0, 71, 49
+2, 13920, Note_on_c, 0, 71, 0
+2, 13920, Note_on_c, 0, 62, 0
+2, 13920, Note_on_c, 0, 68, 0
+2, 13920, Note_on_c, 0, 62, 31
+2, 13920, Note_on_c, 0, 68, 31
+2, 13920, Note_on_c, 0, 71, 37
+2, 14400, Note_on_c, 0, 71, 0
+2, 14400, Note_on_c, 0, 68, 0
+2, 14400, Note_on_c, 0, 62, 0
+2, 14400, Note_on_c, 0, 62, 27
+2, 14400, Note_on_c, 0, 68, 27
+2, 14400, Note_on_c, 0, 71, 32
+2, 15340, Note_on_c, 0, 71, 0
+2, 15340, Note_on_c, 0, 68, 0
+2, 15340, Note_on_c, 0, 62, 0
+2, 15360, Note_on_c, 0, 74, 48
+2, 15360, Note_on_c, 0, 78, 57
+2, 15840, Note_on_c, 0, 78, 0
+2, 15840, Note_on_c, 0, 74, 0
+2, 15840, Note_on_c, 0, 72, 54
+2, 15840, Note_on_c, 0, 75, 64
+2, 16200, Note_on_c, 0, 73, 48
+2, 16200, Note_on_c, 0, 76, 57
+2, 16210, Note_on_c, 0, 75, 0
+2, 16210, Note_on_c, 0, 72, 0
+2, 16320, Note_on_c, 0, 85, 64
+2, 16320, Note_on_c, 0, 81, 54
+2, 16800, Note_on_c, 0, 81, 0
+2, 16800, Note_on_c, 0, 85, 0
+2, 16800, Note_on_c, 0, 85, 68
+2, 16800, Note_on_c, 0, 81, 57
+2, 17280, Note_on_c, 0, 81, 0
+2, 17280, Note_on_c, 0, 76, 0
+2, 17280, Note_on_c, 0, 73, 0
+2, 17280, Note_on_c, 0, 85, 0
+2, 17280, Note_on_c, 0, 73, 44
+2, 17280, Note_on_c, 0, 82, 44
+2, 17280, Note_on_c, 0, 76, 44
+2, 17280, Note_on_c, 0, 85, 52
+2, 17280, Note_on_c, 0, 70, 44
+2, 18220, Note_on_c, 0, 70, 0
+2, 18220, Note_on_c, 0, 76, 0
+2, 18220, Note_on_c, 0, 73, 0
+2, 18220, Note_on_c, 0, 82, 0
+2, 18220, Note_on_c, 0, 85, 0
+2, 18240, Note_on_c, 0, 73, 45
+2, 18240, Note_on_c, 0, 70, 38
+2, 18720, Note_on_c, 0, 70, 0
+2, 18720, Note_on_c, 0, 73, 0
+2, 18720, Note_on_c, 0, 70, 40
+2, 18720, Note_on_c, 0, 73, 48
+2, 19080, Note_on_c, 0, 71, 34
+2, 19080, Note_on_c, 0, 74, 40
+2, 19090, Note_on_c, 0, 73, 0
+2, 19090, Note_on_c, 0, 70, 0
+2, 19200, Note_on_c, 0, 71, 0
+2, 19200, Note_on_c, 0, 74, 0
+2, 19200, Note_on_c, 0, 71, 28
+2, 19200, Note_on_c, 0, 78, 37
+2, 19680, Note_on_c, 0, 78, 0
+2, 19680, Note_on_c, 0, 71, 0
+2, 19680, Note_on_c, 0, 69, 28
+2, 19680, Note_on_c, 0, 78, 33
+2, 20160, Note_on_c, 0, 78, 0
+2, 20160, Note_on_c, 0, 69, 0
+2, 20160, Note_on_c, 0, 68, 23
+2, 20160, Note_on_c, 0, 78, 28
+2, 21100, Note_on_c, 0, 78, 0
+2, 21100, Note_on_c, 0, 68, 0
+2, 21120, Note_on_c, 0, 62, 33
+2, 21120, Note_on_c, 0, 68, 39
+2, 21600, Note_on_c, 0, 68, 0
+2, 21600, Note_on_c, 0, 62, 0
+2, 21600, Note_on_c, 0, 62, 36
+2, 21600, Note_on_c, 0, 71, 43
+2, 21960, Note_on_c, 0, 61, 31
+2, 21960, Note_on_c, 0, 69, 37
+2, 21970, Note_on_c, 0, 71, 0
+2, 21970, Note_on_c, 0, 62, 0
+2, 22060, Note_on_c, 0, 61, 0
+2, 22060, Note_on_c, 0, 69, 0
+2, 22080, Note_on_c, 0, 69, 43
+2, 22200, Note_on_c, 0, 73, 27
+2, 22200, Note_on_c, 0, 81, 32
+2, 22560, Note_on_c, 0, 81, 0
+2, 22560, Note_on_c, 0, 73, 0
+2, 22560, Note_on_c, 0, 81, 32
+2, 22560, Note_on_c, 0, 73, 27
+2, 23040, Note_on_c, 0, 73, 0
+2, 23040, Note_on_c, 0, 81, 0
+2, 23040, Note_on_c, 0, 81, 31
+2, 23040, Note_on_c, 0, 73, 26
+2, 24000, Note_on_c, 0, 73, 0
+2, 24000, Note_on_c, 0, 81, 0
+2, 24000, Note_on_c, 0, 69, 0
+2, 24000, End_track
+3, 0, Start_track
+3, 0, Title_t, "Piano left"
+3, 0, Program_c, 0, 0
+3, 0, Control_c, 0, 7, 100
+3, 0, Control_c, 0, 10, 64
+3, 956, Control_c, 0, 91, 127
+3, 1440, Note_on_c, 0, 40, 31
+3, 1490, Control_c, 0, 64, 127
+3, 1920, Note_on_c, 0, 40, 0
+3, 1920, Note_on_c, 0, 64, 34
+3, 1920, Note_on_c, 0, 52, 28
+3, 1935, Control_c, 0, 64, 0
+3, 2097, Control_c, 0, 64, 127
+3, 2400, Note_on_c, 0, 52, 0
+3, 2400, Note_on_c, 0, 64, 0
+3, 2400, Note_on_c, 0, 64, 27
+3, 2400, Note_on_c, 0, 52, 23
+3, 2880, Note_on_c, 0, 52, 0
+3, 2880, Note_on_c, 0, 64, 0
+3, 2880, Note_on_c, 0, 64, 24
+3, 2880, Note_on_c, 0, 52, 19
+3, 3627, Control_c, 0, 64, 0
+3, 3820, Note_on_c, 0, 52, 0
+3, 3820, Note_on_c, 0, 64, 0
+3, 4320, Note_on_c, 0, 45, 32
+3, 4391, Control_c, 0, 64, 127
+3, 4800, Note_on_c, 0, 45, 0
+3, 4800, Note_on_c, 0, 64, 36
+3, 4800, Note_on_c, 0, 57, 30
+3, 4816, Control_c, 0, 64, 0
+3, 4998, Control_c, 0, 64, 127
+3, 5280, Note_on_c, 0, 57, 0
+3, 5280, Note_on_c, 0, 64, 0
+3, 5280, Note_on_c, 0, 64, 30
+3, 5280, Note_on_c, 0, 57, 25
+3, 5760, Note_on_c, 0, 57, 0
+3, 5760, Note_on_c, 0, 64, 0
+3, 5760, Note_on_c, 0, 64, 30
+3, 5760, Note_on_c, 0, 57, 25
+3, 6480, Control_c, 0, 64, 0
+3, 6700, Note_on_c, 0, 57, 0
+3, 6700, Note_on_c, 0, 64, 0
+3, 7200, Note_on_c, 0, 40, 30
+3, 7292, Control_c, 0, 64, 127
+3, 7680, Note_on_c, 0, 40, 0
+3, 7680, Note_on_c, 0, 59, 31
+3, 7680, Note_on_c, 0, 52, 26
+3, 7690, Control_c, 0, 64, 0
+3, 7885, Control_c, 0, 64, 127
+3, 8160, Note_on_c, 0, 52, 0
+3, 8160, Note_on_c, 0, 59, 0
+3, 8160, Note_on_c, 0, 59, 24
+3, 8160, Note_on_c, 0, 52, 19
+3, 8640, Note_on_c, 0, 52, 0
+3, 8640, Note_on_c, 0, 59, 0
+3, 8640, Note_on_c, 0, 59, 22
+3, 8640, Note_on_c, 0, 52, 18
+3, 9280, Control_c, 0, 64, 0
+3, 9580, Note_on_c, 0, 52, 0
+3, 9580, Note_on_c, 0, 59, 0
+3, 10080, Note_on_c, 0, 33, 30
+3, 10193, Control_c, 0, 64, 127
+3, 10560, Note_on_c, 0, 33, 0
+3, 10560, Note_on_c, 0, 64, 33
+3, 10560, Note_on_c, 0, 57, 28
+3, 10560, Note_on_c, 0, 52, 28
+3, 10570, Control_c, 0, 64, 0
+3, 10744, Control_c, 0, 64, 127
+3, 11040, Note_on_c, 0, 52, 0
+3, 11040, Note_on_c, 0, 57, 0
+3, 11040, Note_on_c, 0, 64, 0
+3, 11040, Note_on_c, 0, 64, 27
+3, 11040, Note_on_c, 0, 57, 22
+3, 11040, Note_on_c, 0, 52, 22
+3, 11520, Note_on_c, 0, 52, 0
+3, 11520, Note_on_c, 0, 57, 0
+3, 11520, Note_on_c, 0, 64, 0
+3, 11520, Note_on_c, 0, 64, 18
+3, 11520, Note_on_c, 0, 57, 15
+3, 11520, Note_on_c, 0, 52, 15
+3, 12267, Control_c, 0, 64, 0
+3, 12460, Note_on_c, 0, 52, 0
+3, 12460, Note_on_c, 0, 57, 0
+3, 12460, Note_on_c, 0, 64, 0
+3, 12960, Note_on_c, 0, 40, 33
+3, 13108, Control_c, 0, 64, 127
+3, 13440, Note_on_c, 0, 40, 0
+3, 13440, Note_on_c, 0, 64, 31
+3, 13440, Note_on_c, 0, 52, 26
+3, 13454, Control_c, 0, 64, 0
+3, 13603, Control_c, 0, 64, 127
+3, 13920, Note_on_c, 0, 52, 0
+3, 13920, Note_on_c, 0, 64, 0
+3, 13920, Note_on_c, 0, 64, 29
+3, 13920, Note_on_c, 0, 52, 25
+3, 14400, Note_on_c, 0, 52, 0
+3, 14400, Note_on_c, 0, 64, 0
+3, 14400, Note_on_c, 0, 64, 27
+3, 14400, Note_on_c, 0, 52, 23
+3, 15120, Control_c, 0, 64, 0
+3, 15340, Note_on_c, 0, 52, 0
+3, 15340, Note_on_c, 0, 64, 0
+3, 15840, Note_on_c, 0, 45, 39
+3, 15939, Control_c, 0, 64, 127
+3, 16320, Note_on_c, 0, 45, 0
+3, 16320, Note_on_c, 0, 69, 42
+3, 16320, Note_on_c, 0, 64, 35
+3, 16320, Note_on_c, 0, 57, 35
+3, 16330, Control_c, 0, 64, 0
+3, 16468, Control_c, 0, 64, 127
+3, 16800, Note_on_c, 0, 57, 0
+3, 16800, Note_on_c, 0, 64, 0
+3, 16800, Note_on_c, 0, 69, 0
+3, 16800, Note_on_c, 0, 57, 37
+3, 16800, Note_on_c, 0, 64, 37
+3, 16800, Note_on_c, 0, 69, 44
+3, 17280, Note_on_c, 0, 69, 0
+3, 17280, Note_on_c, 0, 64, 0
+3, 17280, Note_on_c, 0, 57, 0
+3, 17280, Control_c, 0, 64, 0
+3, 17280, Note_on_c, 0, 66, 38
+3, 17280, Note_on_c, 0, 64, 32
+3, 17280, Note_on_c, 0, 61, 32
+3, 17280, Note_on_c, 0, 54, 32
+3, 17654, Control_c, 0, 64, 127
+3, 17940, Control_c, 0, 64, 0
+3, 18220, Note_on_c, 0, 54, 0
+3, 18220, Note_on_c, 0, 66, 0
+3, 18220, Note_on_c, 0, 64, 0
+3, 18220, Note_on_c, 0, 61, 0
+3, 18720, Note_on_c, 0, 35, 28
+3, 18805, Control_c, 0, 64, 127
+3, 19200, Note_on_c, 0, 35, 0
+3, 19200, Note_on_c, 0, 62, 42
+3, 19200, Note_on_c, 0, 54, 35
+3, 19207, Control_c, 0, 64, 0
+3, 19334, Control_c, 0, 64, 127
+3, 19680, Note_on_c, 0, 54, 0
+3, 19680, Note_on_c, 0, 62, 0
+3, 19680, Note_on_c, 0, 62, 31
+3, 19680, Note_on_c, 0, 59, 26
+3, 19680, Note_on_c, 0, 54, 26
+3, 20160, Note_on_c, 0, 54, 0
+3, 20160, Note_on_c, 0, 59, 0
+3, 20160, Note_on_c, 0, 62, 0
+3, 20160, Note_on_c, 0, 62, 22
+3, 20160, Note_on_c, 0, 59, 18
+3, 20160, Note_on_c, 0, 52, 18
+3, 20165, Control_c, 0, 64, 0
+3, 20427, Control_c, 0, 64, 127
+3, 20880, Control_c, 0, 64, 0
+3, 21100, Note_on_c, 0, 52, 0
+3, 21100, Note_on_c, 0, 59, 0
+3, 21100, Note_on_c, 0, 62, 0
+3, 21600, Note_on_c, 0, 33, 21
+3, 21664, Control_c, 0, 64, 127
+3, 21973, Control_c, 0, 64, 0
+3, 22024, Control_c, 0, 64, 127
+3, 22200, Note_on_c, 0, 52, 28
+3, 22200, Note_on_c, 0, 57, 28
+3, 22200, Note_on_c, 0, 64, 34
+3, 22320, Note_on_c, 0, 33, 0
+3, 22560, Note_on_c, 0, 52, 0
+3, 22560, Note_on_c, 0, 57, 0
+3, 22560, Note_on_c, 0, 64, 0
+3, 22560, Note_on_c, 0, 64, 31
+3, 22560, Note_on_c, 0, 57, 26
+3, 23040, Note_on_c, 0, 57, 0
+3, 23040, Note_on_c, 0, 64, 0
+3, 23040, Note_on_c, 0, 64, 28
+3, 23040, Note_on_c, 0, 57, 23
+3, 23813, Control_c, 0, 64, 0
+3, 24000, Note_on_c, 0, 57, 0
+3, 24000, Note_on_c, 0, 64, 0
+3, 24000, End_track
+4, 0, Start_track
+4, 0, Title_t, "Chopin: Prelude No.7 in A, Op. 28"
+4, 0, End_track
+5, 0, Start_track
+5, 0, Title_t, "Copyright © 1997 by Bernd Krueger"
+5, 0, End_track
+6, 0, Start_track
+6, 0, Title_t, "http://www.piano-midi.de"
+6, 0, End_track
+7, 0, Start_track
+7, 0, Title_t, "Edition: 2014-02-20"
+7, 0, End_track
+8, 0, Start_track
+8, 0, Title_t, "Spur 7"
+8, 0, Control_c, 0, 7, 127
+8, 0, Control_c, 0, 10, 64
+8, 0, End_track
+9, 0, Start_track
+9, 0, Title_t, "Spur 8"
+9, 0, Control_c, 0, 7, 127
+9, 0, Control_c, 0, 10, 64
+9, 0, End_track
+0, 0, End_of_file
