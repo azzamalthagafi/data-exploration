@@ -1,0 +1,8 @@
+,MIDI,MP3,OGG,ZIP,Total
+Successful requests,2546142,223718,56557,53175,2879592
+Average successful requests/day,6975,612,154,145,7886
+Distinct files requested,957,12,203,18,1190
+Distinct hosts served,216926,317,2471,11761,-
+Data transferred (GB),43.08 gigabytes,12644,115.54,6.39,12765.93
+Average data transferred/day (MB),120.85 megabytes,346.28,324.21,17.94,688.43
+% of total requests,88%,8%,2%,2%,1
