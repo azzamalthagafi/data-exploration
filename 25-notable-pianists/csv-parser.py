@@ -38,10 +38,19 @@ df = pd.read_csv(filename, names=my_cols)
 note_events = df[(df.event == " Note_on_c") | (df.event == " Note_off_c")]
 notes = note_events.note
 
-note_frequencies = notes.value_counts()
+# TODO: ultimate goal is to have a huge df that has in each row a song
+# 		and first column would be artist and other columns are notes
+#		to achieve this, csv-parser will append a row to a .csv file
+#		with the frequencies of the notes in columns.
+
+
+
+# (PREVIOUS CODE) This code below was commented to test another way of implementation
+# this step creates a value count df for each note.
+# note_frequencies = notes.value_counts()
 
 # file writing
-note_frequencies.to_csv("nfa_" + os.path.splitext(filename)[0] + ".csv")
+#note_frequencies.to_csv("nfa_" + os.path.splitext(filename)[0] + ".csv")
 
 
 
